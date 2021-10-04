@@ -1,1 +1,1 @@
-# best-cheats
+# [best-cheats](https://github.com/gravitlauncher-cheat/best-cheats)
