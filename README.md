@@ -4,17 +4,30 @@ Best Cheats
 
 <h3 align="center">
 Тут будут различные, интересные, крутые, читы/инжекты/читпаки...
-</h1>
-
-###Всё, распределяно, по веткам.
-
-#Таблица версий и читов к ним.
-
-| 1.7.10 | 1.12.2 |
-| ------ | ------ |
-| [dll](https://github.com/gravitlauncher-cheat/best-cheats/tree/1.7.10/dll) | [dll](https://github.com/gravitlauncher-cheat/best-cheats/tree/1.12.2/dll) |
-| [jar](https://github.com/gravitlauncher-cheat/best-cheats/tree/1.7.10/jar) | [jar](https://github.com/gravitlauncher-cheat/best-cheats/tree/1.12.2/jar) |
+</h3>
 
 <h3 align="center">
-Отдельная ветка под инжекторы [[Клик](https://github.com/gravitlauncher-cheat/best-cheats/tree/injectors)]
-</h1>
+Всё, распределяно, по веткам.
+</h3>
+
+<h3 align="center">
+Таблица версий и читов к ним.
+</h3>
+<table align="center">
+  <tr>
+    <th>1.7.10</th>
+    <th>1.12.2</th>
+  </tr>
+  <tr>
+    <th><a href="https://github.com/gravitlauncher-cheat/best-cheats/tree/1.7.10/dll">dll</a></th>
+    <th><a href="https://github.com/gravitlauncher-cheat/best-cheats/tree/1.12.2/dll">dll</a></th>
+  </tr>
+  <tr>
+    <th><a href="https://github.com/gravitlauncher-cheat/best-cheats/tree/1.7.10/jar">jar</a></th>
+    <th><a href="https://github.com/gravitlauncher-cheat/best-cheats/tree/1.12.2/jar">jar</a></th>
+  </tr>
+</table>
+
+<h3 align="center">
+Отдельная ветка под инжекторы <a href="https://github.com/gravitlauncher-cheat/best-cheats/tree/injectors">[Клик]</a>
+</h3>
